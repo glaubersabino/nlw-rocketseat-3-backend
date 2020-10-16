@@ -42,6 +42,9 @@ $ git clone https://github.com/glaubersabino/nlw-rocketseat-3-backend
 # Go into the repository
 $ cd nlw-rocketseat-3-backend
 
+# Install dependencies
+$ yarn
+
 # Run the api
 $ yarn dev
 ```
